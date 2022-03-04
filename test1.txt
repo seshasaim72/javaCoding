@@ -1,0 +1,3 @@
+Hello this is my 1st test case 
+git add test1.txt --> to add into index
+git commit -m "commiting to Local Git Repository"--> from index to Git
